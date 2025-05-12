@@ -9,7 +9,7 @@ export default defineConfig({
   tailwindcss(),
 
   ],
-  base: "/marleyme/",
+  base: "/marleyandme/",
   server: {
     port: 3000
   }
